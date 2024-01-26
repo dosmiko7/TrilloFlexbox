@@ -7,7 +7,7 @@ Trillo is a static hotel landing page.
 ## ℹ️ Basic concept
 
 The basic idea when creating Trillo was to learn how to use flex from CSS.
-![Fullpage](documentation/images/Fullpage.gif)
+![Fullpage](documentation/images/Fullpage.png)
 
 ## 🎥 Flexbox and simple animations
 

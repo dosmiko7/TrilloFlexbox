@@ -13,7 +13,6 @@ The basic idea when creating Trillo was to learn how to use flex from CSS.
 
 In addition to the use of flexbox, the website presents simple animations created using hover.
 
-The application also displays the nearest towns for which you can also check the weather
 ![Animations](documentation/images/Animations.gif)
 
 ## 📏 Responsiveness
